@@ -1,3 +1,9 @@
+<?php
+
+include "session.php"
+?>
+
+
 <!doctype html>
 <html>
 <head>
