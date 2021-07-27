@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 
 include "session.php"
@@ -12,6 +13,10 @@ include "session.php"
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <title>Home</title>
+=======
+<html>
+<head>
+>>>>>>> c62e5571fd362af509dbc4b3cf3587da7ea8b10e
      
       <style>
       .student{
@@ -36,12 +41,21 @@ include "session.php"
 
 </head>
 <body>
+<<<<<<< HEAD
     <h1 class="student">STUDENT DETAILS</h1>
     
       <div class="my-container my-card" style="height:220px; width:220px; float:left;">
       <img style="height:220px; width:220px;" src="img/22.jpg"></img>
       </div>
     
+=======
+    <h1 class="student">STUDENT DETAILS:</h1>
+    <header class="header">
+    <h1>
+      <img src="img/derrrrr.jpg">
+    </h1>
+    </header>
+>>>>>>> c62e5571fd362af509dbc4b3cf3587da7ea8b10e
 
     <table class="table">
     <tr>
@@ -201,6 +215,7 @@ include "session.php"
     
      
 
+<<<<<<< HEAD
     <script>
 window.onscroll = function() {myFunction()};
 
@@ -216,5 +231,7 @@ function myFunction() {
 }
 </script>
 
+=======
+>>>>>>> c62e5571fd362af509dbc4b3cf3587da7ea8b10e
 </body>
 </html>

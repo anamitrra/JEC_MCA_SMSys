@@ -8,6 +8,10 @@ if(isset($_POST["submit"]))
 {
 	$userid=$_POST["username"];
 	$upass=$_POST["password"];
+<<<<<<< HEAD
+=======
+	
+>>>>>>> c62e5571fd362af509dbc4b3cf3587da7ea8b10e
 	$sql="select password from admin where username='$userid' AND password = '$upass' ";
 	$result=mysqli_query($link,$sql);
 	$n=mysqli_num_rows($result);

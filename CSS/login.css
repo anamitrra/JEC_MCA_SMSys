@@ -8,7 +8,11 @@
   }
   
   body{
+<<<<<<< HEAD
    background: linear-gradient(to left, #03553a, #03558a);
+=======
+    background: linear-gradient(to right, #96cfe7, #065f7a);
+>>>>>>> c62e5571fd362af509dbc4b3cf3587da7ea8b10e
   }
   
   .box{
@@ -23,7 +27,11 @@
     height: auto;
     background: #fff;
     padding: 35px 50px;
+<<<<<<< HEAD
     border-radius: 10px;
+=======
+    border-radius: 2px;
+>>>>>>> c62e5571fd362af509dbc4b3cf3587da7ea8b10e
   }
   
   .form .title{

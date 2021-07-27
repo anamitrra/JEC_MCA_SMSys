@@ -2,13 +2,21 @@
 
 include "session.php"
 ?>
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> c62e5571fd362af509dbc4b3cf3587da7ea8b10e
 <!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="css/my.css">
+<<<<<<< HEAD
 <link rel="stylesheet" type="text/css" href="css/sticky.css">
+=======
+>>>>>>> c62e5571fd362af509dbc4b3cf3587da7ea8b10e
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <title>Home</title>
 <style>
@@ -28,9 +36,14 @@ input[type=text] {
 </style>
 </head>
 <body>
+<<<<<<< HEAD
 <div id="navbar">
 <button class="my-btn"><a href="home.php"><i class="fa fa-home my-xlarge"></i></a></button>
 </div>
+=======
+<button class="my-btn"><a href="home.php"><i class="fa fa-home my-xlarge"></i></a></button>
+
+>>>>>>> c62e5571fd362af509dbc4b3cf3587da7ea8b10e
     <div class="my-content">
         <div class="my-container">
             <br><br><br><br>
@@ -68,6 +81,7 @@ input[type=text] {
     </div>
 </div>
 
+<<<<<<< HEAD
 
 <script>
 window.onscroll = function() {myFunction()};
@@ -85,5 +99,7 @@ function myFunction() {
 </script>
 
 
+=======
+>>>>>>> c62e5571fd362af509dbc4b3cf3587da7ea8b10e
 </body>
 </html>

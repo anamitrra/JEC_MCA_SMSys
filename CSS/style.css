@@ -67,6 +67,7 @@ height: 100%;
   transform: translate(-50%, -50%);
   text-align: center;
 }
+<<<<<<< HEAD
 .footer {
   position: fixed;
   left: 0;
@@ -82,3 +83,6 @@ height: 100%;
    border-color:#03554a!important;
    border-top:10px solid #03554a!important;
 }
+=======
+
+>>>>>>> c62e5571fd362af509dbc4b3cf3587da7ea8b10e
